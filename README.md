@@ -10,4 +10,4 @@ roles of all 5 students in this group:
 /Hamek Mohamed (Latex)
 /Benslimane Salima Lamia (power point)
 /Harchouni Besma and Kaci Hind (Excel)
-/Boudjemia Ferhat youcef (word)
+/Boudjemia Farhat youcef (word)
